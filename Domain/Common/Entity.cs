@@ -54,7 +54,7 @@ namespace Domain.Common
             return this.GetType();
 
 //          Original code by Khorikov that (unfortunately) binds NHibernate
-//          return NHibernateProxyHelper.GetClassWithoutInitializingProxy(this);
+//code      return NHibernateProxyHelper.GetClassWithoutInitializingProxy(this);
         }
     }
 }

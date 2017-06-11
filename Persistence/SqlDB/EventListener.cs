@@ -9,6 +9,7 @@ namespace Persistence.SqlDB
         IPostUpdateEventListener, 
         IPostCollectionUpdateEventListener
     {
+
         public void OnPostUpdate(PostUpdateEvent ev)
         {
 
@@ -53,5 +54,6 @@ namespace Persistence.SqlDB
             aggregateRoot.ClearEvents();
 
         }
+
     }
 }
