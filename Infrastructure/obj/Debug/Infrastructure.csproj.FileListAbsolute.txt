@@ -1,5 +1,0 @@
-C:\vs15\DDDSolutionSkeleton\Infrastructure\bin\Debug\Infrastructure.dll
-C:\vs15\DDDSolutionSkeleton\Infrastructure\bin\Debug\Infrastructure.pdb
-C:\vs15\DDDSolutionSkeleton\Infrastructure\obj\Debug\Infrastructure.dll
-C:\vs15\DDDSolutionSkeleton\Infrastructure\obj\Debug\Infrastructure.pdb
-C:\vs15\DDDSolutionSkeleton\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
