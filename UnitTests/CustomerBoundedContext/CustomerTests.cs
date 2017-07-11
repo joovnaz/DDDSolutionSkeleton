@@ -31,7 +31,7 @@ namespace UnitTests.CustomerBoundedContext
         [Fact]
         public void NewCustomerPersists()
         {
-            Initer.Init(@"Server=(local);Database=test;Trusted_Connection=Yes;");
+            Initer.Init(@"Server=(local);Database=test;Trusted_Connection=Yes;"); // commente here
             DomainEvents.Init();
             CustomerRepository customerRepository = new CustomerRepository();
             Customer c = new Customer("Pietro");
